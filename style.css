@@ -1,0 +1,16 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+.mt{
+    margin-top: 5em;
+}
+.gap{
+    gap: 30px;
+}
+.audioSelection{
+    height: 50vh;
+    width:360px;
+}
+.divContainer{
+display: flex;
+flex-direction: column;
+gap: 30px;
+}
